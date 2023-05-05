@@ -1,3 +1,3 @@
-# IBM-quantum-challenges
+# IBM-Quantum-Challenges
 
 
